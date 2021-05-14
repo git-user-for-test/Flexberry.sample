@@ -1,0 +1,1 @@
+docker-compose -p sample up -d
